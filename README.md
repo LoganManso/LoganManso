@@ -26,7 +26,6 @@ Atualmente tenho me dedicado ao aprendizado de tecnologias como Html, Css, JavaS
 
 <!-- REDES SOCIAIS -->
 <div align="center">
-  <a href="" target="_blank"><img src="" target="_blank"></a>
   <a href="https://www.linkedin.com/in/logan-manso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=LoganManso)
